@@ -1,2 +1,3 @@
-TOKEN = '8073975482:AAE99EUHjA_w8ExTwchuSqPJbjzVfxqACNM'
+TOKEN = '8073975482:dasfsdDFasfasfAS324sd'
+
 KEYWORD = 'вика'
